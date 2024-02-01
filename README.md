@@ -33,7 +33,8 @@ let tree = new Tree()
 tree.insert("*1")
 tree.insert("*1", "*2")
 tree.insert("*1", "*3")
-// ...etc.```
+// ...etc.
+```
 
 *(12 puntos)* Encontrar el mensaje codificado usando el siguiente algoritmo, el cual procesará caracter por caracter la secuencia de 0's y 1's:
 
