@@ -51,3 +51,5 @@ tree.insert("*1", "*3")
 >01011 es: izquierda, derecha, izquierda, derecha, derecha **➜** se llega a la hoja **"l"**
 
 >0001 es: izquierda, izquierda, izquierda, derecha **➜**se llega a la hoja **"o"**
+
+Para comprobar la solución instalar los modulos con `npm install`. Ejecutar `npm run build` y luego `npm run preview`, para ingresar al localhost. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/dBEJi3_YISo)
