@@ -28,7 +28,7 @@ El siguiente diagrama correspondiente al árbol que se usará para la decodifica
 **Se solicita**
 **(8 puntos)** Utilizando la clase Tree vista en clase, representar el árbol mostrado en el diagrama, asegurándose de replicar correctamente la estructura y los valores de los nodos. Los nodos con asteriscos contienen números distintos para facilitar la creación manual del árbol mediante insersiones. Las hojas son los caracteres del mensaje decodificado.
 
-````// Ejemplo referencial (dependiendo de la implementación de Tree que usen)
+```// Ejemplo referencial (dependiendo de la implementación de Tree que usen)
 let tree = new Tree()
 tree.insert("*1")
 tree.insert("*1", "*2")
