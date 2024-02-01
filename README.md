@@ -26,7 +26,8 @@ El siguiente diagrama correspondiente al árbol que se usará para la decodifica
 `11110010001111101001010100000010110110001101000101110011111000011001111110001100101001110100101011100101101011100001100111100001110101110111011100011100100001011101111011001101110`
 
 **Se solicita**
-**(8 puntos)** Utilizando la clase Tree vista en clase, representar el árbol mostrado en el diagrama, asegurándose de replicar correctamente la estructura y los valores de los nodos. Los nodos con asteriscos contienen números distintos para facilitar la creación manual del árbol mediante insersiones. Las hojas son los caracteres del mensaje decodificado.
+**(8 puntos)** 
+Utilizando la clase Tree vista en clase, representar el árbol mostrado en el diagrama, asegurándose de replicar correctamente la estructura y los valores de los nodos. Los nodos con asteriscos contienen números distintos para facilitar la creación manual del árbol mediante insersiones. Las hojas son los caracteres del mensaje decodificado.
 
 ```// Ejemplo referencial (dependiendo de la implementación de Tree que usen)
 let tree = new Tree()
@@ -36,7 +37,8 @@ tree.insert("*1", "*3")
 // ...etc.
 ```
 
-*(12 puntos)* Encontrar el mensaje codificado usando el siguiente algoritmo, el cual procesará caracter por caracter la secuencia de 0's y 1's:
+**(12 puntos)** 
+Encontrar el mensaje codificado usando el siguiente algoritmo, el cual procesará caracter por caracter la secuencia de 0's y 1's:
 
 1. Se parte de la raíz del árbol.
 
